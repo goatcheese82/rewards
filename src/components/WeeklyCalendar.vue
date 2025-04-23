@@ -101,6 +101,7 @@
 
           <!-- Cleanup Option -->
           <div class="option-group">
+            
             <svg class="icon" viewBox="0 0 24 24">
               <path
                 fill="currentColor"
